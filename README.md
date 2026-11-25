@@ -46,11 +46,9 @@ http://localhost:8080
 ## Deployment Evidence
 
 ### Custom Web Application
-![Website](docker-portfolio-deployment.png)
-
+![Website](Test%20Website.jpeg)
 ### Running Docker Container
-![Container](docker-container-running.png)
-
+![Container](CMD%20Terminal.png)
 ## Troubleshooting
 Resolved Docker Desktop startup issues by implementing a lightweight Docker Engine environment using Ubuntu and WSL 2.
 
